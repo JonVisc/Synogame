@@ -1,0 +1,10 @@
+<div class="palm-hasheader">
+	<div class="palm-header"><span id="choiceHeader"></span></div>
+	<div class="palm-header-spacer"></div>
+	<div class="palm-body-text" x-mojo-loc="">Current level score: <span id="levelScore"></span></div>
+    <div id="Spelling1" name="Spelling1" x-mojo-element="Button"></div>
+	<div id="Spelling2" name="Spelling2" x-mojo-element="Button"></div>
+	<div id="Spelling3" name="Spelling3" x-mojo-element="Button"></div>
+	<div id="Spelling4" name="Spelling4" x-mojo-element="Button"></div>
+	
+</div>

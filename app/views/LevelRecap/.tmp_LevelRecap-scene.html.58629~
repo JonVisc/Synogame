@@ -1,0 +1,8 @@
+<div id="main" class="palm-hasheader">
+    <div class="palm-header">Congratulations!</div>
+    <div class="palm-body-text">
+    	You have completed level <span id="levelCompleted"></span>.<br/><br/>
+		Your current score is: <span id="scoreSpan">0</span>
+	</div>
+    <div id="continueButton" name="continueButton" x-mojo-element="Button"></div>
+</div>

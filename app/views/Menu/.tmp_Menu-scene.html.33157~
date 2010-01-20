@@ -1,0 +1,12 @@
+<div class="palm-page-header multi-line" style="height:480px">
+    <div class="palm-page-header-wrapper" style="position:relative;height:135px;">
+    	<div class="title left">SpellWell</div>
+		<div class="subtitle" ><b>A game that tests your knowledge of commonly <strike><span style="color:red">mispelled</span></strike> misspelled words.</b></div>
+	</div>
+    <div id="startButton" name="startButton" x-mojo-element="Button"></div>
+	<div id="continueButton" name="continueButton" x-mojo-element="Button"></div>
+	<div id="prefButton" name="prefButton" x-mojo-element="Button"></div>
+	<div id="aboutButton" name="aboutButton" x-mojo-element="Button"></div>
+	<br/>
+	<div class="subtitle">&copy;2010 Visc Inc. - All rights reserved</div>
+</div>

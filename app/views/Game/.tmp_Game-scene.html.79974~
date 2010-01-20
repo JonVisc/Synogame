@@ -1,0 +1,7 @@
+<div id="main" class="palm-hasheader">
+	<div class="palm-header"><span id="choiceHeader"></span></div>
+    <div id="Spelling1" name="Spelling1" x-mojo-element="Button"></div>
+	<div id="Spelling2" name="Spelling2" x-mojo-element="Button"></div>
+	<div id="Spelling3" name="Spelling3" x-mojo-element="Button"></div>
+	<div id="Spelling4" name="Spelling4" x-mojo-element="Button"></div>
+</div>

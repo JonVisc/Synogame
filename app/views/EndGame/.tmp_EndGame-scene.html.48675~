@@ -1,0 +1,7 @@
+<div id="main" class="palm-hasheader">
+	<div class="palm-header">Congratulations!</div>
+    <div class="palm-body-text"  x-mojo-loc="">Your end score is <b><span id="scoreSpan"></span></b>.</div><br/>
+	
+	<div class="palm-body-title" x-mojo-loc="">Recent scores (score - date time):</div>
+	<div id="scoresList" class="palm-body-text" x-mojo-loc=""></div>
+</div>

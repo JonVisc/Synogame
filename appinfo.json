@@ -1,0 +1,10 @@
+{
+	"id": "com.viscinc.synogame",
+	"version": "1.0.1",
+	"vendor": "Visc Inc",
+	"type": "web",
+	"main": "index.html",
+	"title": "Synogame",
+	"icon": "icon.png",
+	"theme": "light"
+}

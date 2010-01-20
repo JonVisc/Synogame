@@ -1,0 +1,8 @@
+<div id="main" class="palm-hasheader">
+    <div class="palm-header">Speller</div>
+    <div class="palm-body-text">A game that tests your knowledge of commonly <strike><span style="color:red">mispelled</span></strike> misspelled words</div>
+    <div id="startButton" name="startButton" x-mojo-element="Button"></div>
+	<div id="continueButton" name="continueButton" x-mojo-element="Button" class="secondary"></div>
+	<div id="prefButton" name="prefButton" x-mojo-element="Button"></div>
+	<div id="aboutButton" name="aboutButton" x-mojo-element="Button"></div>
+</div>

@@ -1,0 +1,10 @@
+<div id="main" class="palm-hasheader">
+	<div class="palm-header">How to play</div>
+    <div class="palm-body-text">When you start the game it will list out 4 choices of a word,
+	only one of the choices is truly correct.<br/><br/>
+	When you select a choice the game will subtly indicate whether or not it is the correct choice.  
+	If you make all of the correct choices in the level of 5 words, you progress.  
+	If you guess incorrectly the game will start the current level over.<br/><br/>
+	A constant timer is ticking down your score for a level so be quick!<br/><br/>
+	I hope to add more levels over time!  Good luck!</div>
+</div>

@@ -1,0 +1,29 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {"source": "app/utils/admob.js"},
+    {"source": "app/models/words.js"},
+    {"source": "app/models/tips.js"},
+    {
+        "scenes": "Menu",
+        "source": "app/assistants/Menu-assistant.js"
+    },
+    {
+        "scenes": "Game",
+        "source": "app/assistants/Game-assistant.js"
+    },
+    {
+        "scenes": "About",
+        "source": "app/assistants/About-assistant.js"
+    },
+    {
+        "scenes": "EndGame",
+        "source": "app/assistants/EndGame-assistant.js"
+    },
+    {
+        "scenes": "LevelRecap",
+        "source": "app/assistants/LevelRecap-assistant.js"
+    },
+	{
+        "source": "app/assistants/Name-assistant.js"
+    }
+]

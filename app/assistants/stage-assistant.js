@@ -21,7 +21,7 @@ StageAssistant.prototype.handleCommand = function(event) {
 			case 'do-aboutNews':
 				currentScene.showAlertDialog({
 					onChoose: function(value) {},
-					title: "SpellWell",
+					title: "Synogame",
 					message: "I'm not perfect, if you see an error, please let me know! Email me at jon.romanowski@gmail.com",
 					choices:[
 						{label: "OK", value:""}

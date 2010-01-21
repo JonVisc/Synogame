@@ -7,7 +7,7 @@ var Words = Class.create
 		["depletion", "increase", "escalation", "swell"],
 		["conforming", "diverse", "separate", "sundry"],
 		["malleable", "hard", "dense", "callous"],
-		["miss", "achieve", "acquire", "procure"],
+		["miss", "achieve", "acquire", "procure"]/*,
 		//2
 		["uniform", "complex", "convoluted", "variegated"],
 		["apathetic", "dynamic", "charismatic", "intense"],
@@ -121,7 +121,7 @@ var Words = Class.create
 		["praise", "dig", "gibe", "quip"],
 		["sluggish", "abounding", "alert", "replete"],
 		["pleasant", "formidable", "challenging", "puissant"],
-		["stealing", "charity", "beneficence", "largesse"]
+		["stealing", "charity", "beneficence", "largesse"]*/
 	],
 	// initialize - Assign default data to the feedlist
 	initialize: function() {

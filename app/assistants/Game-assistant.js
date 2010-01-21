@@ -24,7 +24,7 @@ GameAssistant.prototype.setup = function() {
 //If there is a cookie and this is the first level, remove it.
 GameAssistant.prototype.checkCookie = function(){
 	if (this.Level == 1) {
-		var CookieInfo = new Mojo.Model.Cookie("Speller");
+		var CookieInfo = new Mojo.Model.Cookie("Synogame");
 		CookieInfo.remove();
 	}
 }

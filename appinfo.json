@@ -1,7 +1,7 @@
 {
 	"id": "com.viscinc.synogame",
-	"version": "1.0.1",
-	"vendor": "Visc Inc",
+	"version": "1.1.0",
+	"vendor": "Visc, Inc.",
 	"type": "web",
 	"main": "index.html",
 	"title": "Synogame",

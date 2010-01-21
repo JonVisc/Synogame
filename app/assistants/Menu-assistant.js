@@ -43,7 +43,7 @@ MenuAssistant.prototype.handleContinueButtonPress = function(event) {
 	var CookieInfo = new Mojo.Model.Cookie("Synogame");
 	var levelInfo = CookieInfo.get();
 	
-	this.controller.stageController.pushScene("Game", levelInfo != null ? levelInfo.Level : 25, this.WordList, null, null, levelInfo != null ? levelInfo.Score : 0, 1, levelInfo != null ? levelInfo.PassedLevels : null);
+	this.controller.stageController.pushScene("Game", levelInfo != null ? levelInfo.Level : 1, this.WordList, null, null, levelInfo != null ? levelInfo.Score : 0, 1, levelInfo != null ? levelInfo.PassedLevels : null);
 }
 MenuAssistant.prototype.handleButtonPress = function(event){
 	this.controller.stageController.pushScene("Game", 1, this.WordList, null, null, 0, 1, null);
